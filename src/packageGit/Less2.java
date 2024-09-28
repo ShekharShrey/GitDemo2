@@ -15,6 +15,9 @@ public class Less2 {
 		}
 		System.out.println("US change 1");
 		System.out.println("US change 2");
+		
+		System.out.println("IST change 1");
+		System.out.println("IST change 2");
 
 	}
 

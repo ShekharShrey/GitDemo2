@@ -20,6 +20,11 @@ public class Less1 {
 		System.out.println("Run4");
 		System.out.println("Run5");
 		System.out.println("Run6");
+		
+		System.out.println("Run7");
+		System.out.println("Run8");
+		System.out.println("Run9");
+		System.out.println("Run10");
 
 	}
 
