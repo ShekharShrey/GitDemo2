@@ -12,6 +12,9 @@ public class Less1 {
 			System.out.print(arr[i]);
 			System.out.print(" ");
 		}
+		System.out.println(" ");
+		System.out.println("Run1");
+		System.out.println("Run2");
 
 	}
 
