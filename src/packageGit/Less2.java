@@ -30,6 +30,9 @@ public class Less2 {
 		
 		System.out.println("US change 5 develop");
 		System.out.println("US change 6 develop");
+		
+		System.out.println("US change 7 develop");
+		System.out.println("US change 8 develop");
 
 	}
 
